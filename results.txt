@@ -1,0 +1,24 @@
+Summary of recent arXiv papers related to the term "Transformers" (identified from the DeepLearning.AI homepage):
+
+1. **Physics-Informed Machine Learning for Transformer Condition Monitoring -- Part I** (Aizpurua, 2025-12-20)
+   * Explores neural network variants, especially CNNs, for monitoring electrical power transformers. Highlights the potential of ML to improve diagnostics and prognostics in power grids.
+
+2. **Physics-Informed Machine Learning for Transformer Condition Monitoring -- Part II** (Aizpurua, 2025-12-20)
+   * Extends Part I by integrating physics‑informed neural networks (PINNs) and Bayesian PINNs to quantify uncertainty, offering a more trustworthy approach for critical infrastructure.
+
+3. **On the Surprising Effectiveness of Transformers in Low‑Labeled Video Recognition** (Rahman et al., 2022-09-15)
+   * Demonstrates that vision transformers outperform CNN‑based semi‑supervised methods even when only a small amount of labeled video data is available. Suggests a shift toward transformer‑centric video learning pipelines.
+
+4. **SCSC: Spatial Cross‑scale Convolution Module to Strengthen both CNNs and Transformers** (Wang et al., 2023-08-14)
+   * Introduces a modular block that can be plugged into either architecture, delivering accuracy gains while reducing FLOPs and parameters. Shows that architectural ideas can be shared across CNNs and transformers.
+
+5. **Transformers are Graph Neural Networks** (Joshi, 2025-06-27)
+   * Provides a theoretical bridge between self‑attention in transformers and message‑passing in GNNs, arguing that transformers are a form of dense‑graph GNN that benefits from modern hardware efficiencies.
+
+**Key Themes Identified**
+- **Cross‑domain application**: Transformers are being applied beyond NLP, e.g., to power‑grid asset monitoring and video classification.
+- **Hybrid designs**: New modules (SCSC) aim to combine the strengths of CNNs and transformers, improving efficiency.
+- **Theoretical insights**: Connections to graph neural networks deepen our understanding of transformer expressivity.
+- **Data efficiency**: Contrary to earlier beliefs, transformers can excel in low‑label regimes, especially in vision tasks.
+
+These papers collectively illustrate the rapid expansion of transformer research into new domains, the ongoing push for more efficient hybrid architectures, and a growing theoretical grounding linking transformers to other deep learning paradigms.

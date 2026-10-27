@@ -1,0 +1,22 @@
+{
+  "mcpServers": {
+    "research": {
+      "command": "C:\\Users\\USER\\Desktop\\Alvin test\\MCP\\.venv\\Scripts\\python.exe",
+      "args": ["C:\\Users\\USER\\Desktop\\Alvin test\\MCP\\server.py"]
+    },
+    "fetch": {
+      "command": "C:\\Users\\USER\\.local\\bin\\uvx.exe",
+      "args": ["mcp-server-fetch"]
+    },
+    "filesystem": {
+      "command": "cmd.exe",
+      "args": [
+        "/c",
+        "npx",
+        "-y",
+        "@modelcontextprotocol/server-filesystem",
+        "C:\\Users\\USER\\Desktop\\Alvin test\\MCP"
+      ]
+    }
+  }
+}

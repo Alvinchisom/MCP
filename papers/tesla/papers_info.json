@@ -1,0 +1,40 @@
+{
+  "hep-ex/0412026v2": {
+    "title": "Alternative IR geometries for TESLA with a small crossing angle",
+    "authors": [
+      "R. Appleby",
+      "D. Angal-Kalinin",
+      "P. Bambade",
+      "B. Mouton",
+      "O. Napoly",
+      "J. Payet",
+      "the TESLA Collaboration"
+    ],
+    "summary": "  The formulation of hybrid crossing angle schemes has been a recent development of the TESLA collision geometry debate. Here we report on two such schemes, characterised by either a small vertical or horizontal beam crossing angle.",
+    "pdf_url": "https://arxiv.org/pdf/hep-ex/0412026v2",
+    "published": "2004-12-09"
+  },
+  "0801.2570v1": {
+    "title": "The Hot Gas Halos of Galaxies in Groups",
+    "authors": [
+      "Tesla E. Jeltema",
+      "Breanna Binder",
+      "John S. Mulchaey"
+    ],
+    "summary": "  We use Chandra observations of 13 nearby groups of galaxies to investigate the hot gas content of their member galaxies. We find that a large fraction of near-IR bright, early-type galaxies in groups have extended X-ray emission, indicating that they retain significant hot gas halos even in these dense environments. In particular, we detect hot gas halos in ~80% of L_K > L_star galaxies. We do not find a significant difference in the L_K-L_X relation for detected group and cluster early-type galaxies. However, we detect X-ray emission from a significantly higher fraction of galaxies brighter than L_star in groups compared to clusters, indicating that a larger fraction of galaxies in clusters experience significant stripping of their hot gas. In addition, group and cluster galaxies appear to be X-ray faint compared to field galaxies, though a Chandra based field sample is needed to confirm this result. The near-IR bright late-types galaxies in clusters and groups appear to follow the L_K-L_X relation for early-type galaxies, while near-IR fainter late-type galaxies are significantly more X-ray luminous than this relation likely due to star formation. Finally, we find individual examples of ongoing gas stripping of group galaxies. One galaxy shows a 40-50 kpc X-ray tail, and two merging galaxy systems show tidal bridges/tails of X-ray emission. Therefore, stripping of hot galactic gas through both ram pressure and tidal forces does occur in groups and clusters, but the frequency or efficiency of such events must be moderate enough to allow hot gas halos in a large fraction of bright galaxies to survive even in group and cluster cores.",
+    "pdf_url": "https://arxiv.org/pdf/0801.2570v1",
+    "published": "2008-01-16"
+  },
+  "astro-ph/0611001v2": {
+    "title": "The Evolution of Galaxies in X-ray Luminous Groups",
+    "authors": [
+      "Tesla E. Jeltema",
+      "John S. Mulchaey",
+      "Lori M. Lubin",
+      "Christopher D. Fassnacht"
+    ],
+    "summary": "  We investigate the galaxy populations in seven X-ray selected, intermediate-redshift groups (0.2<z<0.6). Overall, the galaxy populations in these systems are similar to those in clusters at the same redshift; they have large fractions of early-type galaxies (f_e~70%) and small fractions of galaxies with significant star formation (f_[OII]~30%). We do not observe a strong evolution in the galaxy populations from those seen in X-ray luminous groups at low-redshift. Both f_e and f_[OII] are correlated with radius but do not reach the field value out to ~r_500. However, we find significant variation in the galaxy populations between groups with some groups having field-like populations. Comparisons between the morphological and spectral properties of group galaxies reveal both gas-poor mergers and a population of passive spirals. Unlike low-redshift, X-ray emitting groups, in some of these groups the brightest galaxy does not lie at the center of the X-ray emission, and in several of the groups that do have a central BGG, the BGG has multiple components. These groups appear to represent a range of evolutionary stages in the formation of the BGG. Some groups have relatively large central galaxy densities, and one group contains a string of seven bright galaxies within a radius of 200 kpc that have a lower velocity dispersion than the rest of the system. None of the central galaxies, including those with multiple components, have significant [OII] emission. These observations support a scenario in which BGGs are formed relatively late through gas-poor mergers.",
+    "pdf_url": "https://arxiv.org/pdf/astro-ph/0611001v2",
+    "published": "2006-10-31"
+  }
+}
